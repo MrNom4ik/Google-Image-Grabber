@@ -1,5 +1,5 @@
 # Google-Image-grabber
-Script for grabber image from Google Images search
+Script for grab image from Google Images search
 
 ```
 >>> from main import GoogleImageGrabber
