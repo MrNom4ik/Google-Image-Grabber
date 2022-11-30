@@ -1,4 +1,4 @@
-# Google-Image-grabber
+# Google-Image-Grabber
 Script for grab image from Google Images search
 
 ```
