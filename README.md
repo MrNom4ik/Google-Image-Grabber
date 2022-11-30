@@ -34,3 +34,4 @@ Script for grab image from Google Images search
 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXkhM0d6KOu3nf4LDzMkmXDK93_NpVpywazwQk4v5XDvrI5gA4lCZHq8pE1U&amp;s'
 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5Kq7Yl0QAYRe6arm-rsAAy25oH_nWvyi_IDX3MuBb39z6mzWdUlZXF2Glr8&amp;s'
 >>>
+>>> # these links will work forever
